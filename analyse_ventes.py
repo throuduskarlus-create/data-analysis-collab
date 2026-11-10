@@ -6,3 +6,5 @@ def ca(quantite, prix):
     return quantite * prix
 
 print(f"Le Chiffre d'affaire total est de : {(ca(df['quantite'], df['prix_unitaire'])).sum():.2f} €.")
+
+print(f"Moyenne : {(ca(df['quantite'], df['prix_unitaire'])).mean():.2f} €.")
