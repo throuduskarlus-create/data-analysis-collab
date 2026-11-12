@@ -1,2 +1,2 @@
 Atelier Tic & Tac -Data Analysis
-Objectif : analyser les ventes.
+Objectif : analyser les ventes par produit.
